@@ -1,3 +1,7 @@
+.no-color {
+  color: #363636;
+}
+
 #recoModal {
   z-index: 99999;
 }
